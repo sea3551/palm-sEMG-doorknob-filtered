@@ -4,6 +4,12 @@
 This repository releases palm surface EMG (sEMG) recordings collected during doorknob-rotation actions.  
 Data are minimally preprocessed to support reproducible research.
 
+The data used in this study were collected after obtaining approval from the Institutional Review Board (IRB) of Kyungpook National University Hospital, in accordance with ethical guidelines (IRB number: KNUH 2025). 
+
+## License
+Data © 2025 Yeonjung Shin — released under **CC BY 4.0**. See `LICENSE` for the full text.
+
+
 ---
 
 # What's included
