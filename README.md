@@ -1,5 +1,12 @@
 # palm-sEMG-doorknob-filtered
 
+Palm sEMG-based user authentication during doorknob rotation using a convolutional neural network
+Yeonjung Shin1, Junghun Kim2,*, Sang-Il Choi2,*
+1Department of Computer Software, Daegu Catholic University, Gyeongsangbuk-do, 38430, Republic of Korea
+2School of Computer Software, Daegu Catholic University, Gyeongsangbuk-do, 38430, Republic of Korea
+*fainal2@cu.ac.kr; sangilchoi@cu.ac.kr
+<img width="468" height="187" alt="image" src="https://github.com/user-attachments/assets/4f25d8ff-0328-4464-81bb-1b7da3bb5907" />
+
 
 This repository releases palm surface EMG (sEMG) recordings collected during doorknob-rotation actions.  
 Data are minimally preprocessed to support reproducible research.
