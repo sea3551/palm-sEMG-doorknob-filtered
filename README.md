@@ -1,6 +1,6 @@
 # palm-sEMG-doorknob-filtered
 
-##Palm sEMG-based user authentication during doorknob rotation using a convolutional neural network
+## Palm sEMG-based user authentication during doorknob rotation using a convolutional neural network
 
 Yeonjung Shin<sup/>1</sup>, Junghun Kim<sup/>2,*</sup>, Sang-Il Choi<sup/>2,*</sup>
 
