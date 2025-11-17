@@ -2,11 +2,11 @@
 
 ## Palm sEMG-based user authentication during doorknob rotation using a convolutional neural network
 
-Yeonjung Shin<sup/>1</sup>, Junghun Kim<sup/>2,*</sup>, Sang-Il Choi<sup/>2,*</sup>
+Yeonjung Shin<sup/>1</sup>, Junghun Kim<sup/>2, *</sup>, Sang-Il Choi<sup/>2, *</sup>
 
 <sup/>1</sup>Department of Computer Software, Daegu Catholic University, Gyeongsangbuk-do, 38430, Republic of Korea
 
-<sup/>2</sup>School of Computer Software, Daegu Catholic University, Gyeongsangbuk-do, 38430, Republic of Korea
+<sup/>2</sup>School of Computer Software, Daegu Catholic University, Gyeongsangbuk-do, 38430, Republic of Korea, 
 
 *fainal2@cu.ac.kr; sangilchoi@cu.ac.kr
 
